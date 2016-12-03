@@ -34,3 +34,8 @@ This is a list of all participants to the "How I Work" blog series.
   - Title: Configuration Manager
   - Link:  [How I Work](https://powershellposse.com/about/im-thom-and-this-is-how-i-work/)
   - Twitter: [@driberif](https://twitter.com/driberif)
+
+- Name: David das Neves
+  - Title: Premier Field Engineer
+  - Link:  [How I Work](https://powerintheshell.com/2016/12/03/how-i-work/)
+  - Twitter: [@david_das_neves](https://twitter.com/david_das_neves)
